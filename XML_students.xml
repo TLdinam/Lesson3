@@ -1,0 +1,43 @@
+<students>
+
+	<student id="0" name="Nick" gender="M">
+		<surname>Ferens</surname>
+
+		<patronymic>Olegovich</patronymic>
+
+		<birthdate>01.01.1992</birthdate>
+
+		<birthplace>Kiev</birthplace>
+
+		<phone>0867664848</phone>
+
+		<activities>
+
+			<internal property="true" value="3">
+				<activity date="02.01.2019"/>
+			</internal>
+
+
+		</activities>
+	</student>
+
+	<student id="1" name="Sara" gender="W">
+		<surname>Ferens</surname>
+
+		<patronymic>Antonova</patronymic>
+
+		<birthdate>01.01.1994</birthdate>
+
+		<birthplace>Kiev</birthplace>
+
+		<phone>0867578290</phone>
+
+		<activities>
+
+			<internal property="true" value="3">
+				<activity date="03.03.2018"/>
+			</internal>
+
+		</activities>
+	</student>
+</students>
