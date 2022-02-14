@@ -18,7 +18,7 @@
                   "date": "02.01.2019"
             },
 
-                "property": "true",
+                "property": true,
                 "value": "3"
           }
         }
@@ -43,7 +43,7 @@
               "activity": {
                 "date": "03.03.2018"
             },
-                "property": "true",
+                "property": true,
                 "value": "3"
           }
         }
