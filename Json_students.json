@@ -1,0 +1,54 @@
+{
+  "students": {
+
+      "student": [
+        {
+          "id": "0",
+          "name": "Nick",
+          "gender": "M",
+          "surname": "Ferens",
+          "patronymic": "Olegovich",
+          "birthdate": "01.01.1992",
+          "birthplace": "Kiev",
+          "phone": "0867664848",
+
+          "activities": {
+              "internal": {
+                "activity": {
+                  "date": "02.01.2019"
+            },
+
+                "property": true,
+                "value": "3"
+          }
+        }
+
+
+      },
+
+
+
+      {
+        "id": "1",
+        "name": "Sara",
+        "gender": "W",
+        "surname": "Ferens",
+        "patronymic": "Antonova",
+        "birthdate": "01.01.1994",
+        "birthplace": "Kiev",
+        "phone": "0867578290",
+
+        "activities": {
+            "internal": {
+              "activity": {
+                "date": "03.03.2018"
+            },
+                "property": true,
+                "value": "3"
+          }
+        }
+
+      }
+    ]
+  }
+}
